@@ -1,2 +1,0 @@
-# swami
-Swamis repo
