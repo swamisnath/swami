@@ -7,3 +7,4 @@ Hello,again
 Updateing README with new info!
 hOW ARE YOU?
 >>>>>>> origin/master
+sharing remote is fun
