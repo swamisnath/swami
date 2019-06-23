@@ -3,3 +3,4 @@ Adding some code here
 =======
 
 >>>>>>> origin/master
+fix1
